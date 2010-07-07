@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution Bio-SNP-Inherit,
+version 0.00100001:
+
+  Module for determining the parental origin of specific SNPs based on genotype data.
+
+This software is copyright (c) 2010 by Christopher Bottoms.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+

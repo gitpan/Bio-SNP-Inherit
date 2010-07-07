@@ -1,0 +1,7 @@
+Sample Label    	Sample name	Group      	Mother          	Father          	Replicate(s)    
+WG0096796-DNAF01	B97        	25DL       	                	                	                
+WG0096795-DNAA01	B73        	Control    	                	                	                
+WG0096796-DNAA01	B73        	Control    	                	                	WG0096795-DNAA01
+WG0096797-DNAA01	B73        	Control    	                	                	WG0096795-DNAA01
+WG0096796-DNAF11	B97        	Holland pop	                	                	WG0096796-DNAF01
+WG0096796-DNAA05	B73xB97    	NAM F1     	WG0096795-DNAA01	WG0096796-DNAF01	                

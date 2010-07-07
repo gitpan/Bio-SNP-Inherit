@@ -1,0 +1,21 @@
+---
+abstract: 'Module for determining the parental origin of specific SNPs based on genotype data.'
+author:
+  - 'Christopher Bottoms <molecules at cpan.org>'
+build_requires:
+  Module::Build: 0.3601
+configure_requires:
+  ExtUtils::MakeMaker: 6.31
+  Module::Build: 0.3601
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.101780, CPAN::Meta::Converter version 2.101670'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Bio-SNP-Inherit
+requires:
+  Moose: 0.90
+  Test::More: 0
+  namespace::autoclean: 0
+version: 0.00100001

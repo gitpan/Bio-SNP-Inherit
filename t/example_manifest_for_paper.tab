@@ -1,0 +1,10 @@
+Sample ID	Sample name	Group	ParentA	ParentB	Replicate(s)	F1_ancestor
+1	B73 	Control				
+2	B73 	Control			1	
+3	B73 	Control			1	
+4	Mo17	Control	1			
+5	Mo17	Control	1		4	
+6	Mo17	Control	1		4	
+7	M0021	IBM	1	4		
+8	B73xZ100	F1	1			
+9	TIP Z	Inbred	1			8
