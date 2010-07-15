@@ -39,7 +39,6 @@ t/manifest_M0021.tab
 t/manifest_all.tab
 t/missing_id_manifest.tab
 t/pod-coverage.t
-t/pod-syntax.t
 t/pod.t
 t/read-only.t
 t/release-pod-coverage.t

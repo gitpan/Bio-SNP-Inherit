@@ -18,4 +18,4 @@ requires:
   Moose: 0.90
   Test::More: 0
   namespace::autoclean: 0
-version: 0.00100001
+version: 0.002

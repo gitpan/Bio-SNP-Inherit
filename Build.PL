@@ -18,7 +18,7 @@ my %module_build_args = (
     'Christopher Bottoms <molecules at cpan.org>'
   ],
   'dist_name' => 'Bio-SNP-Inherit',
-  'dist_version' => '0.00100001',
+  'dist_version' => '0.002',
   'license' => 'perl',
   'module_name' => 'Bio::SNP::Inherit',
   'recommends' => {},

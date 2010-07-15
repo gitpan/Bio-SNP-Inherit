@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution Bio-SNP-Inherit,
-version 0.00100001:
+version 0.002:
 
   Module for determining the parental origin of specific SNPs based on genotype data.
 

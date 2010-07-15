@@ -1,6 +1,6 @@
 package Bio::SNP::Inherit;
 BEGIN {
-  $Bio::SNP::Inherit::VERSION = '0.00100001';
+  $Bio::SNP::Inherit::VERSION = '0.002';
 }
 use strict;
 #ABSTRACT: Module for determining the parental origin of specific SNPs based on genotype data.
@@ -957,7 +957,7 @@ __END__
 
 =head1 VERSION
 
-version 0.00100001
+version 0.002
 
     my $foo = Bio::SNP::Inherit->new(
         manifest_filename => 'manifest.tab',
